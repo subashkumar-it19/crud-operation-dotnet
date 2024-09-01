@@ -102,3 +102,4 @@
 /Users/subashkumarn/Desktop/CRUD/crud/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /Users/subashkumarn/Desktop/CRUD/crud/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /Users/subashkumarn/Desktop/CRUD/crud/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/subashkumarn/Desktop/CRUD/crud/obj/Debug/net8.0/crud.sourcelink.json
